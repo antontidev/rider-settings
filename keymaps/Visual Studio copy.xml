@@ -1,0 +1,8 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad8" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad7" />
+  </action>
+</keymap>
