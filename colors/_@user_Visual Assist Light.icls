@@ -1,11 +1,11 @@
-<scheme name="_@user_ReSharper Light" version="142" parent_scheme="ReSharper Light">
+<scheme name="_@user_Visual Assist Light" version="142" parent_scheme="Visual Assist Light">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-11-18T11:02:40</property>
+    <property name="created">2022-03-31T19:31:06</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.1.5.0.0</property>
     <property name="modified">2022-03-31T21:17:31</property>
-    <property name="originalScheme">ReSharper Light</property>
+    <property name="originalScheme">Visual Assist Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
