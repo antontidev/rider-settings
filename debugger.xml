@@ -9,6 +9,7 @@
         <configuration>
           <option name="breakOnUserUnhandledExceptions" value="true" />
           <option name="showRawNodeForDebuggerBrowsableValues" value="true" />
+          <option name="showTypeVariables" value="false" />
         </configuration>
       </debugger>
       <debugger id="javascript">
