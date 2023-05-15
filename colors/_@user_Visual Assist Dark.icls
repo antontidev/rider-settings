@@ -1,15 +1,11 @@
-<scheme name="_@user_Visual Studio Dark" version="142" parent_scheme="Visual Studio Dark">
-  <option name="FONT_SCALE" value="1.0" />
+<scheme name="_@user_Visual Assist Dark" version="142" parent_scheme="Visual Assist Dark">
   <metaInfo>
-    <property name="created">2023-01-20T13:47:03</property>
+    <property name="created">2023-05-15T13:59:22</property>
     <property name="ide">Rider</property>
-    <property name="ideVersion">2021.2.2.0.0</property>
+    <property name="ideVersion">2023.1.1.0.0</property>
     <property name="modified">2023-05-15T16:04:46</property>
-    <property name="originalScheme">Visual Studio Dark</property>
+    <property name="originalScheme">Visual Assist Dark</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_DELETED" value="f77669" />
