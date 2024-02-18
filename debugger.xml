@@ -8,7 +8,6 @@
       <debugger id="dotnet_debugger">
         <configuration>
           <option name="breakOnUnhandledExceptions" value="false" />
-          <option name="breakOnUserUnhandledExceptions" value="true" />
           <option name="showRawNodeForDebuggerBrowsableValues" value="true" />
           <option name="showTypeVariables" value="false" />
         </configuration>
