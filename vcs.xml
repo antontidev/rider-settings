@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/antontidev/ecslite.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://stash.infinnity.ru" />
+          <option name="userName" value="a.sukharev" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\a.sukharev\RiderProjects" />
